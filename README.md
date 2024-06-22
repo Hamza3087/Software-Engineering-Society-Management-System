@@ -1,13 +1,5 @@
 # Software-Engineering-Society-Management-System
 
-Project Details
-2.1 Project Title and Type
-•	Project Title: "CampusForge: Forging Pathways to Success for University Societies"
-•	Project Type: Desktop Application
-2.2 Project Topics
-
-•	Select one of the following topics:
-	b. FAST Societies Management System
 3. Problem Statement
 In our university, the absence of a dedicated society management system poses significant challenges for effective coordination and communication among various student societies. The lack of a centralized platform hampers the efficient organization of events, membership tracking, fund management, and communication channels. Currently, societies rely on disparate tools, manual processes, and conventional methods, leading to inefficiencies, data discrepancies, and communication gaps.
 The absence of a unified system hinders the seamless collaboration and resource sharing between different societies, impacting their overall productivity and the quality of events they organize. Furthermore, the manual handling of membership data, event scheduling, and financial transactions is time-consuming and error-prone, posing a barrier to the optimal functioning of student societies.
